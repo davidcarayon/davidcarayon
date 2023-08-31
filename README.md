@@ -22,7 +22,9 @@ My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto
 
 ## 💻 Other projects : 
 
-- [SK8](https://sk8.inrae.fr) | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation [here](https://hal.inrae.fr/hal-04141247v1/document))
+- [SK8](https://sk8.inrae.fr) : An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation [here](https://hal.inrae.fr/hal-04141247v1/document))
+
+- [Quarto INRAE extension](https://github.com/davidcarayon/quarto-inrae-extension) : Unofficial quarto extension provinding themes using our research intitute design system
 
 ## :chart_with_upwards_trend: GitHub Stats
 [![davidcarayons's github stats](https://github-readme-stats.vercel.app/api?username=davidcarayon)](https://github.com/anuraghazra/github-readme-stats)
