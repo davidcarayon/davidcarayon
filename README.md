@@ -14,11 +14,17 @@ My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto
 
 ## 📦 R Packages :
 
-- [IDEATools](https://github.com/davidcarayon/IDEATools) : Individual and Group Farm Sustainability Assessments using the IDEA4 Method
+- [IDEATools](https://github.com/davidcarayon/IDEATools) : Individual and Group Farm Sustainability Assessments using the IDEA4 Method (CRAN [here](https://cran.r-project.org/web/packages/IDEATools/index.html))
 
 - [InraeThemes](https://github.com/davidcarayon/InraeThemes) : Unofficial ggplot2, Rmarkdown, Sass and Quarto themes based on my research institute design system
 
 - [IDGF](https://github.com/davidcarayon/IDGF) : An R package dedicated to the French Guiana Diatom Index (FGDI) method
+
+## 🖥️ R Shiny Apps :
+
+- [ShinyIDEA](https://forgemia.inra.fr/sk8/sk8-apps/ettis/shinyidea) : An R Shiny App providing the IDEATools package functions in an easy to use user interface. ([live app here](https://shinyidea.sk8.inrae.fr/))
+
+- [Data-Interventions](https://forgemia.inra.fr/sk8/sk8-apps/ettis/data-interventions) : An R Shiny app providing a monitoring dashboard for safety rescues that occured along 6 beaches of southwest France for 2023
 
 ## 💻 Other projects : 
 
