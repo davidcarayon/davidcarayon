@@ -12,6 +12,10 @@ My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto
 
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
 
+## 🎤 Slides :
+
+My publicly avilable slides are stored in [this repo](https://github.com/davidcarayon/slides) and deployed through Github Pages. Direct links are listed [on my website](https://dcarayon.fr/slides.html)
+
 ## 📦 R Packages :
 
 - [IDEATools](https://github.com/davidcarayon/IDEATools) : Individual and Group Farm Sustainability Assessments using the IDEA4 Method (CRAN [here](https://cran.r-project.org/web/packages/IDEATools/index.html))
