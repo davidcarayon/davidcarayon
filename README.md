@@ -8,9 +8,21 @@ My work mainly focuses on **environmental evaluation**. I build evaluation metho
 
 ## :hammer: Tools and Frameworks:
 
-My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.
-
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+<p align="center">
+  <a href="https://github.com/topics/python" title="Python"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/bash" title="Bash"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/r" title="R"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R logo" width="36" height="36" /></a>
+    <a href="https://github.com/topics/quarto" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png" alt="quarto logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/git" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" /></a>
+    <a href="https://github.com/topics/postgresql" title="PostgreSQL"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/macos" title="macos"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="linux macos" width="36" height="36" /></a>
+  <a href="https://github.com/topics/linux" title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/Visual_Studio_Code" title="VSCode"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="VSCode logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/docker" title="docker"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="36" height="36" /></a>
+  
+</p>
 
 ## 📖 Papers :
 
