@@ -27,10 +27,6 @@ My work mainly focuses on **environmental evaluation**. I build evaluation metho
 
 All of my scientific papers, reports and other products are listed on this open archive page : [CV HAL-INRAE](https://cv.hal.science/david-carayon)
 
-## 🎤 Slides :
-
-My publicly avilable slides are stored in [this repo](https://github.com/davidcarayon/slides) and deployed through Github Pages. Direct links are listed [on my website](https://dcarayon.fr/slides.html)
-
 ## 📦 R Packages :
 
 - [IDEATools](https://github.com/davidcarayon/IDEATools) : Individual and Group Farm Sustainability Assessments using the IDEA4 Method (CRAN [here](https://cran.r-project.org/web/packages/IDEATools/index.html))
@@ -50,6 +46,3 @@ My publicly avilable slides are stored in [this repo](https://github.com/davidca
 - [SK8](https://sk8.inrae.fr) : An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation [here](https://hal.inrae.fr/hal-04141247v1/document))
 
 - [Quarto INRAE extension](https://github.com/davidcarayon/quarto-inrae-extension) : Unofficial quarto extension provinding themes using our research intitute design system
-
-## :chart_with_upwards_trend: GitHub Stats
-[![davidcarayons's github stats](https://github-readme-stats.vercel.app/api?username=davidcarayon)](https://github.com/anuraghazra/github-readme-stats)
